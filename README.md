@@ -1,5 +1,5 @@
 # NPTEL – VLSI Design Flow: RTL to GDS  
-### Complete Assignment Solutions (Weeks 1–12)
+## Complete Assignment Solutions (Weeks 1–12)
 
 This repository contains **well-organized and verified solutions** for all assignments from **Week 1 to Week 12** of the NPTEL course **“VLSI Design Flow: RTL to GDS”**.  
 It provides clear explanations, short concept-based justifications, and a concise reference for learners studying **VLSI backend design and automation tools**.
