@@ -70,3 +70,11 @@ The assignments reference both **industry-standard** and **open-source** EDA too
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/<your-username>/NPTEL-VLSI-Design-Flow-RTL-to-GDS-Assignments.git
+
+
+   ## 🌐 Keywords
+VLSI Design, CMOS, OpenROAD, OpenSTA, Yosys, Digital IC Design, Timing Analysis, 
+Clock Tree Synthesis, Floorplanning, Routing, Physical Design Flow, 
+Parasitic Extraction, Power Analysis, Static Timing, BIST, DFT, 
+VLSI Assignments, RCOEM, ECS, ECE
+
