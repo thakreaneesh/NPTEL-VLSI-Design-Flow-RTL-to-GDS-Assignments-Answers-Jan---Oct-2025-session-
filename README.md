@@ -63,14 +63,6 @@ The assignments reference both **industry-standard** and **open-source** EDA too
 - **Author:** *Aneesh Thakre*  
 - **Includes:** All graded assignments with justifications and explanations  
 
----
-
-## 📚 How to Use
-
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/<your-username>/NPTEL-VLSI-Design-Flow-RTL-to-GDS-Assignments.git
-
 
    ## 🌐 Keywords
 VLSI Design, CMOS, OpenROAD, OpenSTA, Yosys, Digital IC Design, Timing Analysis, 
